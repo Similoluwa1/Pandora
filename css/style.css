@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.2);
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -71,11 +71,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:focus {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.2);
   color: #fff;
   outline: none;
 }
-
 .back-to-top:hover {
   background: #e84941;
   color: #fff;
@@ -107,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background:#b2b2b4;
+  background: rgba(0, 0, 0, 0.8);
   display: table-cell;
   margin: 0;
   padding: 0;
