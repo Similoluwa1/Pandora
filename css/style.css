@@ -163,8 +163,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #e84941;
+  border: 2px solid #fff;
   color: #fff;
 }
 
@@ -180,8 +180,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-services:hover {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #e84941;
+  border: 2px solid #fff;
 }
 
 /*--------------------------------------------------------------
